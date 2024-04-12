@@ -1,0 +1,156 @@
+[
+    {
+      "name": "Delhi Metro Parking",
+      "city": "Delhi",
+      "address": "Sector 18, Rohini",
+      "map-link": "http://maps.google.com/?q=28.7041,77.1025",
+      "country": "India",
+      "pin": "110085",
+      "latitude": 28.7041,
+      "longitude": 77.1025,
+      "contact-no": "+91 9876543210",
+      "parking-capacity": 150,
+      "free-slots": 30,
+      "parking-fees": {
+        "hourly-charges": "15",
+        "daily-charges": "100"
+      }
+    },
+    {
+      "name": "CP Parking Lot",
+      "city": "Delhi",
+      "address": "Connaught Place",
+      "map-link": "http://maps.google.com/?q=28.6315,77.2167",
+      "country": "India",
+      "pin": "110001",
+      "latitude": 28.6315,
+      "longitude": 77.2167,
+      "contact-no": "+91 9988776655",
+      "parking-capacity": 300,
+      "free-slots": 80,
+      "parking-fees": {
+        "hourly-charges": "25",
+        "daily-charges": "200"
+      }
+    },
+    {
+      "name": "South Extension Parking Plaza",
+      "city": "Delhi",
+      "address": "South Extension",
+      "map-link": "http://maps.google.com/?q=28.5672,77.2196",
+      "country": "India",
+      "pin": "110049",
+      "latitude": 28.5672,
+      "longitude": 77.2196,
+      "contact-no": "+91 9876543210",
+      "parking-capacity": 250,
+      "free-slots": 50,
+      "parking-fees": {
+        "hourly-charges": "20",
+        "daily-charges": "150"
+      }
+    },
+    {
+      "name": "Gurgaon CyberHub Parking",
+      "city": "Gurgaon",
+      "address": "Cyber City, DLF Phase 2",
+      "map-link": "http://maps.google.com/?q=28.4949,77.0888",
+      "country": "India",
+      "pin": "122002",
+      "latitude": 28.4949,
+      "longitude": 77.0888,
+      "contact-no": "+91 9876543210",
+      "parking-capacity": 400,
+      "free-slots": 100,
+      "parking-fees": {
+        "hourly-charges": "30",
+        "daily-charges": "250"
+      }
+    },
+    {
+      "name": "Galleria Parking Complex",
+      "city": "Gurgaon",
+      "address": "DLF Phase 4, Sector 28",
+      "map-link": "http://maps.google.com/?q=28.4506,77.0687",
+      "country": "India",
+      "pin": "122002",
+      "latitude": 28.4506,
+      "longitude": 77.0687,
+      "contact-no": "+91 9988776655",
+      "parking-capacity": 200,
+      "free-slots": 40,
+      "parking-fees": {
+        "hourly-charges": "25",
+        "daily-charges": "200"
+      }
+    },
+    {
+      "name": "Sohna Road Parking Lot",
+      "city": "Gurgaon",
+      "address": "Sohna Road, Sector 49",
+      "map-link": "http://maps.google.com/?q=28.4016,77.0406",
+      "country": "India",
+      "pin": "122018",
+      "latitude": 28.4016,
+      "longitude": 77.0406,
+      "contact-no": "+91 9988776655",
+      "parking-capacity": 300,
+      "free-slots": 70,
+      "parking-fees": {
+        "hourly-charges": "20",
+        "daily-charges": "150"
+      }
+    },
+    {
+      "name": "Noida Sector 18 Parking Plaza",
+      "city": "Noida",
+      "address": "Sector 18, Noida",
+      "map-link": "http://maps.google.com/?q=28.5706,77.3255",
+      "country": "India",
+      "pin": "201301",
+      "latitude": 28.5706,
+      "longitude": 77.3255,
+      "contact-no": "+91 9876543210",
+      "parking-capacity": 350,
+      "free-slots": 80,
+      "parking-fees": {
+        "hourly-charges": "20",
+        "daily-charges": "150"
+      }
+    },
+    {
+      "name": "Great India Place Parking",
+      "city": "Noida",
+      "address": "Sector 38A, Noida",
+      "map-link": "http://maps.google.com/?q=28.5684,77.3268",
+      "country": "India",
+      "pin": "201301",
+      "latitude": 28.5684,
+      "longitude": 77.3268,
+      "contact-no": "+91 9988776655",
+      "parking-capacity": 250,
+      "free-slots": 60,
+      "parking-fees": {
+        "hourly-charges": "25",
+        "daily-charges": "200"
+      }
+    },
+    {
+      "name": "Logix City Center Parking",
+      "city": "Noida",
+      "address": "Sector 32, Noida",
+      "map-link": "http://maps.google.com/?q=28.5846,77.3353",
+      "country": "India",
+      "pin": "201301",
+      "latitude": 28.5846,
+      "longitude": 77.3353,
+      "contact-no": "+91 9876543210",
+      "parking-capacity": 300,
+      "free-slots": 70,
+      "parking-fees": {
+        "hourly-charges": "20",
+        "daily-charges": "150"
+      }
+    }
+  ]
+  
